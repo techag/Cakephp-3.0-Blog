@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Template/Blogs/create.ctp</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Controller/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Model/Table/BlogsTable.php</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Template/Blogs/welcome.ctp</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Model/Table/TopicsTable.php</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Template/Blogs/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/webroot/css/main.css</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Template/Users/sign_up.ctp</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Model/Table/UsersTable.php</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Template/Users/login.ctp</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Template/Layout/default.ctp</file>
+            <file>file:/C:/xampp/htdocs/anand/blog/src/Controller/BlogsController.php</file>
+        </group>
+    </open-files>
+</project-private>
